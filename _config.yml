@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Eber J. Ávila-Martínez"
 title_separator          : "-"
 name                     : &name "Eber J. Ávila-Martínez"
-description              : &description "Phd student at IPICYT"
+description              : &description "Phd student"
 url                      : https://eberavila.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "EberAvila.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Eber J. Ávila-Martínez"
+  name             : "Eber J. Ávila-Martínez"
   avatar           : "profile.png"
-  bio              : "Research scientist"
+  bio              : "Phd student at IPICYT"
   location         : "San Luis Potosí, México"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
