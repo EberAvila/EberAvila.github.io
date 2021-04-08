@@ -5,12 +5,28 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Journal Papers
+1. <u>Eber J. Ávila-Martínez</u>, and Juan G. Barajas-Ramírez. <br>
+**Flocking motion in swarms with limited sensing radius and heterogeneous input constraints** <br>
+_Journal of the Franklin Institute, January 2021_ <br>
+[[paper](https://doi.org/10.1016/j.jfranklin.2021.01.022)]
 
-{% include base_path %}
+## International Conference Proceedings
+1. <u>Eber J. Ávila-Martínez</u>, and Juan G. Barajas-Ramírez. <br>
+**Distributed control for consensus on leader-followers proximity graphs** <br>
+_2nd IFAC Conference on Modelling, Identification and Control of Nonlinear Systems (MICNON2018)_ <br>
+Guadalajara, Jalisco, Mexico, 20–22 June 2018 <br>
+[[paper](https://doi.org/10.1016/j.ifacol.2018.07.285)]
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+2. Irwin A. Díaz-Díaz, <u>Eber J. Ávila-Martínez</u>, and Martín Rodríguez-Licea. <br>
+**Multipoint Power Quality Monitoring System** <br>
+_IEEE International Autumn Meeting on Power, Electronics and Computing (ROPEC2018)_ <br>
+Ixtapa, Mexico, 14-16 Nov. 2018 <br>
+[[paper](https://doi.org/10.1109/ROPEC.2018.8661480)]
+
+## Workshops
+1. <u>Eber J. Ávila-Martínez</u>. <br>
+**Control distribuido de sistemas multi-agente** <br>
+_2da Escuela de matemáticas aplicadas y control (EMAC2017)_ <br>
+San Luis Potosí, San Luis Potosí, Mexico, 11–15 Diciembre 2017 <br>
+[[Poster](https://github.com/EberAvila/EberAvila.github.io/blob/bb10fd8d7ead6143d8ffbc9159d9ea0fc5a9240b/files/Eber%20J.%20Avila%20Martinez%20(P%C3%B3ster%20EMAC2017).pdf)]
