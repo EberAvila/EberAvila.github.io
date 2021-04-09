@@ -24,4 +24,4 @@ My research lies in the intersection of control systems and graph theory. I am s
   - Synchornization
 
 # News
-- There are no news.
+- This site is under construction.
