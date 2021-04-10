@@ -22,21 +22,13 @@ Work experience
   * Duties included: Electronic instrumentation designer.
 
 * November 2014 – January 2015 : Project engineer
-  * Centro de Ingeniería y Desarrollo Industrial
+  * Centro de Ingeniería y Desarrollo Industrial.
   * Duties included: Virtual instrumentation designer.
-  
-Skills
+
+Awards
 ======
-* Programming
-  * Python
-  * Matlab
-  * LaTeX
-  * C/C++
-  * MPLAB X IDE
-  * LabView
-* Electronics
-  * Embedded systems design
-  * Embedded systems programming (Microchip devices, Arduino, NI-DAQ\cRIO)
+* IFAC-Young Paper Award (Finalist at MICNON2018).
+* Exemplary Student Medal (Awarded by Fundación Trayectoria de Éxito 2012).
 
 Publications
 ======
@@ -56,6 +48,15 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Other skills
 ======
-* Currently signed in to 43 different slack teams
+* Programming
+  * Python
+  * Matlab
+  * LaTeX
+  * C/C++
+  * MPLAB X IDE
+  * LabView
+* Electronics
+  * Embedded systems design
+  * Embedded systems programming (Microchip devices, Arduino, NI-DAQ\cRIO)
