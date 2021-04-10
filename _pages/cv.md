@@ -11,30 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Mechatronics, Instituto Tecnológico Superior de San Luis Potosí, Capital, 2012
+* M.S. in Control and Dynamic Systems, Instituto Potosino de Investigación Cinetífica y Tecnológica, A.C., 2014
+* Ph.D in Control and Dynamic Systems, Instituto Potosino de Investigación Cinetífica y Tecnológica, A.C., 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2015 - 2016: Project engineer
+  * Instituto Potosino de Investigación Cinetífica y Tecnológica, A.C.
+  * Duties included: Electronic instrumentation designer.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* November 2014 – January 2015 : Project engineer
+  * Centro de Ingeniería y Desarrollo Industrial
+  * Duties included: Virtual instrumentation designer.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python
+  * Matlab
+  * LaTeX
+  * C/C++
+  * MPLAB X IDE
+  * LabView
+* Electronics
+  * Embedded systems design
+  * Embedded systems programming (Microchip devices, Arduino, NI-DAQ\cRIO)
 
 Publications
 ======
