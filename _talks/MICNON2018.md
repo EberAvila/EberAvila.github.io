@@ -1,8 +1,8 @@
 ---
 title: "Distributed control for consensus on leader-followers proximity graphs (MICNON2018)"
 collection: talks
-type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+type: "Conference proceedings talk"
+permalink: /talks/MICNON2018
 venue: "Guadalajara University"
 date: 2018-06-21
 location: "Guadalajara, Jalisco, México"
