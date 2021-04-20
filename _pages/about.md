@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # About Me
-I am a phd student at Instituto Potosino de Investigación Científica y Tecnológica (IPICYT) adviced by Dr. Juan Gonzalo Barajas Ramírez within the complex networks lab.
+I am a phd student within the Control and Dynamic Systems Department (DCS) at Instituto Potosino de Investigación Científica y Tecnológica (IPICYT) adviced by Dr. Juan Gonzalo Barajas Ramírez, head of the Complex Networks Lab (LRC).
 
 My research lies in the intersection of control systems and graph theory. I am specially interest on the design of distributed controllers to induce collective behaviours on multi-agent systems and their implementation on multi-robot systems.
 
