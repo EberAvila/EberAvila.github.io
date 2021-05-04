@@ -1,6 +1,6 @@
 ---
 title: "Flocking motion animations"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "This portafolio includes some of our flocking motion animation videos."
 collection: portfolio
 ---
 
