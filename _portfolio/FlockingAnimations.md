@@ -1,6 +1,6 @@
 ---
 title: "Flocking motion animations"
-excerpt: "This portafolio includes some of our flocking motion animation videos."
+excerpt: "Multi-robot systems flocking motion animations."
 collection: portfolio
 ---
 
