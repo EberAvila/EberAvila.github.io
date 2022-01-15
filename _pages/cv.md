@@ -11,18 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Mechatronics, Instituto Tecnológico Superior de San Luis Potosí, Capital, 2012
-* M.S. in Control and Dynamic Systems, Instituto Potosino de Investigación Cinetífica y Tecnológica, A.C., 2014
-* Ph.D in Control and Dynamic Systems, Instituto Potosino de Investigación Cinetífica y Tecnológica, A.C., 2021 (expected)
+* Ph.D in Control and Dynamic Systems, Instituto Potosino de Investigación Científica y Tecnológica, A.C., México, 2022.
+* M.S. in Control and Dynamic Systems, Instituto Potosino de Investigación Científica y Tecnológica, A.C., México, 2014.
+* B.Eng. in Mechatronics, Instituto Tecnológico Superior de San Luis Potosí, Capital, México, 2012.
 
 Work experience
 ======
+* December 2021 - Present: Robotics researcher
+  * Innovaciones Tecnológicas, Grupo Merca, México.
+  * Duties included: Robotics research and implementation.
+
 * April 2015 - 2016: Project engineer
-  * Instituto Potosino de Investigación Cinetífica y Tecnológica, A.C.
+  * Instituto Potosino de Investigación Cinetífica y Tecnológica, A.C., México.
   * Duties included: Electronic instrumentation designer.
 
 * November 2014 – January 2015 : Project engineer
-  * Centro de Ingeniería y Desarrollo Industrial.
+  * Centro de Ingeniería y Desarrollo Industrial, México.
   * Duties included: Virtual instrumentation designer.
 
 Awards
