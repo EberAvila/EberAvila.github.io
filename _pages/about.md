@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # About Me
-I received the B.S. degree in engineering from the Tecnológico Superior de San Luis Potosí, Capital, in 2007; And the M.S. and PhD degree in control and dynamic systems from the Instituto Potosino de Investigación Científica y Tecnológica, A.C. in 2014 and 2022, respectively.
+I received the B.S. degree in engineering from the Instituto Tecnológico Superior de San Luis Potosí, Capital, San Luis Potosí, México, in 2007; And the M.S. and PhD degree in control and dynamic systems from the Instituto Potosino de Investigación Científica y Tecnológica, A.C., San Luis Potosí, México, in 2014 and 2022, respectively.
 
 My research lies in the intersection of control systems and graph theory. I am specially interest on the design of distributed controllers to induce collective behaviours on multi-agent systems and their implementation on multi-robot systems.
 
