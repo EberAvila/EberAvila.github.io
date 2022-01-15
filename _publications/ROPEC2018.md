@@ -1,0 +1,13 @@
+---
+title: "Multipoint Power Quality Monitoring System"
+collection: publications
+permalink: /publication/ROPEC2018
+excerpt: 'In this paper, a multipoint power quality monitoring system is presented. The designed system is versatile and consist of one or more standalone portable power monitoring devices with database server capability and local/remote visualization of the power quality indicators such as harmonics, total harmonic distortion, power factor, among others. The portable monitoring devices can measure, record and share information about power quality indicators. A feature of the proposed system is its capability to measure, record data regularly for an extended period and share information. A waveform reconstruction of the measured variables such as voltage, current, active, reactive and apparent power of a 3-phase power line can be performed with the acquired data. Also, each power monitoring device can detect power quality disturbances as well as generate alarms. The developed system has an open architecture; therefore, its functionality can be improved, adapted and scaled for research, educational, institutional or commercial purposes.'
+date: 2018-11-14
+venue: '2018 IEEE International Autumn Meeting on Power, Electronics and Computing (ROPEC)'
+paperurl: ''
+citation: 'Irwin A. Díaz-Díaz, Eber Jafet Ávila-Martínez and Martín Rodríguez-Licea. (2018). &quot;Multipoint Power Quality Monitoring System&quot; <i>2018 IEEE International Autumn Meeting on Power, Electronics and Computing (ROPEC)</i>.'
+---
+Abstract: In this paper, a multipoint power quality monitoring system is presented. The designed system is versatile and consist of one or more standalone portable power monitoring devices with database server capability and local/remote visualization of the power quality indicators such as harmonics, total harmonic distortion, power factor, among others. The portable monitoring devices can measure, record and share information about power quality indicators. A feature of the proposed system is its capability to measure, record data regularly for an extended period and share information. A waveform reconstruction of the measured variables such as voltage, current, active, reactive and apparent power of a 3-phase power line can be performed with the acquired data. Also, each power monitoring device can detect power quality disturbances as well as generate alarms. The developed system has an open architecture; therefore, its functionality can be improved, adapted and scaled for research, educational, institutional or commercial purposes.
+
+[Download paper here](https://doi.org/10.1109/ROPEC.2018.8661480)
