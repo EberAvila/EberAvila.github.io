@@ -19,7 +19,7 @@ Work experience
 ======
 * December 2021 - Present: Robotics researcher
   * Innovaciones Tecnológicas, Grupo Merca, México.
-  * Duties included: Robotics research and implementation.
+  * Duties included: Robotics researcher and developer.
 
 * April 2015 - 2016: Project engineer
   * Instituto Potosino de Investigación Cinetífica y Tecnológica, A.C., México.
