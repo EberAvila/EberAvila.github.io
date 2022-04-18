@@ -18,10 +18,12 @@ My research lies in the intersection of control systems and graph theory. I am s
 - Graph theory
   - State-dependent graphs
   - Distributed connectivity estimation
+  - Shortest path problem
 - Distributed control of multi-agent systems
   - Flocking motion
   - Consensus
   - Synchornization
+- Robotic mobile fulfillment systems
 
 # News
 - (2022-01-14) Got my PhD degree!!.
