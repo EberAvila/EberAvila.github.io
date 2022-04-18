@@ -15,6 +15,8 @@ My research lies in the intersection of control systems and graph theory. I am s
 
 # Research Interests
 - Nonlinear control
+  - Discrete-event systems
+  - Cyber-physical systems
 - Graph theory
   - State-dependent graphs
   - Distributed connectivity estimation
