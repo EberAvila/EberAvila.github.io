@@ -28,4 +28,5 @@ My research lies in the intersection of control systems and graph theory. I am s
 - Robotic mobile fulfillment systems
 
 # News
+- (2022-07-09) I visited IPICYT and participated as a panellist in the activities of "Liga de la Ciencia 2022".
 - (2022-01-14) Got my PhD degree!!.
