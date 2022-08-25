@@ -6,7 +6,12 @@ author_profile: true
 ---
 
 ## Journal Papers
-1. <u>Eber J. Ávila-Martínez</u>, and Juan G. Barajas-Ramírez. <br>
+1. <u>Eber J. Ávila-Martínez</u>. <br>
+**Obstacle avoidance flocking motion in multi-agent systems with limited sensing radius and heterogeneous input constraints** <br>
+_Advanced Robotics, August 2022_ <br>
+[[paper](https://doi.org/10.1080/01691864.2022.2112075)]
+
+2. <u>Eber J. Ávila-Martínez</u>, and Juan G. Barajas-Ramírez. <br>
 **Flocking motion in swarms with limited sensing radius and heterogeneous input constraints** <br>
 _Journal of the Franklin Institute, January 2021_ <br>
 [[paper](https://doi.org/10.1016/j.jfranklin.2021.01.022)]
