@@ -3,7 +3,7 @@ title: "Synchronization in Multi-scroll systems on strongly connected networks"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/EDIESCA2022
-venue: "Universidad Autonoma de Baja California"
+venue: "Universidad Autónoma de Baja California"
 date: 2022-09-28
 location: "Ensenada, Baja California Norte, México"
 ---
