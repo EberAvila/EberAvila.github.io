@@ -9,7 +9,7 @@ author_profile: true
 1. <u>Eber J. Ávila-Martínez</u>, José L. Echenausía-Monroy, and Adriana Ruiz-Silva. <br>
 **Multi-scroll systems synchronization on strongly connected digraphs** <br>
 _Chaos Theory and Applications, 2022_ <br>
-In press.
+[[paper](https://doi.org/10.51537/chaos.1185892)]
 
 2. <u>Eber J. Ávila-Martínez</u>. <br>
 **Obstacle avoidance flocking motion in multi-agent systems with limited sensing radius and heterogeneous input constraints** <br>
