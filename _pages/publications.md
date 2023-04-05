@@ -22,13 +22,19 @@ _Journal of the Franklin Institute, January 2021_ <br>
 [[paper](https://doi.org/10.1016/j.jfranklin.2021.01.022)]
 
 ## International Conference Proceedings
-1. <u>Eber J. Ávila-Martínez</u>, and Juan G. Barajas-Ramírez. <br>
+1. Juan G. Barajas-Ramírez, and <u>Eber J. Ávila-Martínez</u>. <br>
+**Flocking Motion of Multi-Agent Systems: A Proximity Digraph Case** <br>
+_22nd IFAC World Congress 2023_ <br>
+Yokohama, Japan, 9–14 July 2023 <br>
+[[paper]()]
+
+2. <u>Eber J. Ávila-Martínez</u>, and Juan G. Barajas-Ramírez. <br>
 **Distributed control for consensus on leader-followers proximity graphs** <br>
 _2nd IFAC Conference on Modelling, Identification and Control of Nonlinear Systems (MICNON2018)_ <br>
 Guadalajara, Jalisco, México, 20–22 June 2018 <br>
 [[paper](https://doi.org/10.1016/j.ifacol.2018.07.285)]
 
-2. Irwin A. Díaz-Díaz, <u>Eber J. Ávila-Martínez</u>, and Martín Rodríguez-Licea. <br>
+3. Irwin A. Díaz-Díaz, <u>Eber J. Ávila-Martínez</u>, and Martín Rodríguez-Licea. <br>
 **Multipoint Power Quality Monitoring System** <br>
 _IEEE International Autumn Meeting on Power, Electronics and Computing (ROPEC2018)_ <br>
 Ixtapa, Guerrero, México, 14-16 Nov. 2018 <br>
