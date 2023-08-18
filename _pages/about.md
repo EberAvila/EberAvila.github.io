@@ -30,5 +30,6 @@ My research lies in the intersection of control systems and graph theory. I am e
   - Task assignment problems
 
 # News
+- (2023-07-12) I presented the paper "Flocking motion of multi-agent systems: A proximity digraph case" at the IFAC World Congress, held in Yokohama, Japan.
 - (2022-07-09) I visited IPICYT and participated as a panellist in the activities of "Liga de la Ciencia 2022".
 - (2022-01-14) Got my PhD degree!!.
