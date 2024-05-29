@@ -6,17 +6,22 @@ author_profile: true
 ---
 
 ## Journal Papers
-1. <u>Eber J. Ávila-Martínez</u>, José L. Echenausía-Monroy, and Adriana Ruiz-Silva. <br>
+1. Adriana Ruiz-Silva, Bahia Betzavet Cassal-Quiroga, <u>Eber J. Ávila-Martínez</u>, and Hector Gilardi-Velázquez. <br>
+**Emergent Behaviors in Coupled Multi-scroll Oscillators in Network with Subnetworks** <br>
+_Chaos Theory and Applications, 2023_ <br>
+[[paper](https://doi.org/10.51537/chaos.1376501)]
+
+2. <u>Eber J. Ávila-Martínez</u>, José L. Echenausía-Monroy, and Adriana Ruiz-Silva. <br>
 **Multi-scroll systems synchronization on strongly connected digraphs** <br>
 _Chaos Theory and Applications, 2022_ <br>
 [[paper](https://doi.org/10.51537/chaos.1185892)]
 
-2. <u>Eber J. Ávila-Martínez</u>. <br>
+3. <u>Eber J. Ávila-Martínez</u>. <br>
 **Obstacle avoidance flocking motion in multi-agent systems with limited sensing radius and heterogeneous input constraints** <br>
 _Advanced Robotics, August 2022_ <br>
 [[paper](https://doi.org/10.1080/01691864.2022.2112075)]
 
-3. <u>Eber J. Ávila-Martínez</u>, and Juan G. Barajas-Ramírez. <br>
+4. <u>Eber J. Ávila-Martínez</u>, and Juan G. Barajas-Ramírez. <br>
 **Flocking motion in swarms with limited sensing radius and heterogeneous input constraints** <br>
 _Journal of the Franklin Institute, January 2021_ <br>
 [[paper](https://doi.org/10.1016/j.jfranklin.2021.01.022)]
@@ -26,7 +31,7 @@ _Journal of the Franklin Institute, January 2021_ <br>
 **Flocking Motion of Multi-Agent Systems: A Proximity Digraph Case** <br>
 _22nd IFAC World Congress 2023_ <br>
 Yokohama, Japan, 9–14 July 2023 <br>
-[[paper]()]
+[[paper](https://doi.org/10.1016/j.ifacol.2023.10.904)]
 
 2. <u>Eber J. Ávila-Martínez</u>, and Juan G. Barajas-Ramírez. <br>
 **Distributed control for consensus on leader-followers proximity graphs** <br>
