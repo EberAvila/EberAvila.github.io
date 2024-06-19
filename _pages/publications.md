@@ -8,7 +8,7 @@ author_profile: true
 ## Journal Papers
 1. Adriana Ruiz-Silva, Bahia Betzavet Cassal-Quiroga, <u>Eber J. Ávila-Martínez</u>, and Hector Gilardi-Velázquez. <br>
 **Emergent Behaviors in Coupled Multi-scroll Oscillators in Network with Subnetworks** <br>
-_Chaos Theory and Applications, 2023_ <br>
+_Chaos Theory and Applications, 2024_ <br>
 [[paper](https://doi.org/10.51537/chaos.1376501)]
 
 2. <u>Eber J. Ávila-Martínez</u>, José L. Echenausía-Monroy, and Adriana Ruiz-Silva. <br>
