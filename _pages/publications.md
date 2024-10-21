@@ -9,7 +9,7 @@ author_profile: true
 1. <u>Eber J. Ávila-Martínez</u>, and Jonatan Pena Ramirez. <br>
 **Synchronous behavior in directed networks of heterogeneous piecewise linear oscillators** <br>
 _Physica D: Nonlinear Phenomena_ <br>
-[Accepted]
+[accepted]
 
 2. Adriana Ruiz-Silva, Bahia Betzavet Cassal-Quiroga, <u>Eber J. Ávila-Martínez</u>, and Hector Gilardi-Velázquez. <br>
 **Emergent Behaviors in Coupled Multi-scroll Oscillators in Network with Subnetworks** <br>
@@ -23,12 +23,12 @@ _Chaos Theory and Applications, 2022_ <br>
 
 4. <u>Eber J. Ávila-Martínez</u>. <br>
 **Obstacle avoidance flocking motion in multi-agent systems with limited sensing radius and heterogeneous input constraints** <br>
-_Advanced Robotics, August 2022_ <br>
+_Advanced Robotics, 2022_ <br>
 [[paper](https://doi.org/10.1080/01691864.2022.2112075)]
 
 5. <u>Eber J. Ávila-Martínez</u>, and Juan G. Barajas-Ramírez. <br>
 **Flocking motion in swarms with limited sensing radius and heterogeneous input constraints** <br>
-_Journal of the Franklin Institute, January 2021_ <br>
+_Journal of the Franklin Institute, 2021_ <br>
 [[paper](https://doi.org/10.1016/j.jfranklin.2021.01.022)]
 
 ## International Conference Proceedings
