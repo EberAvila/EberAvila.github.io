@@ -8,8 +8,8 @@ author_profile: true
 ## Journal Papers
 1. <u>Eber J. Ávila-Martínez</u>, and Jonatan Pena Ramirez. <br>
 **Synchronous behavior in directed networks of heterogeneous piecewise linear oscillators** <br>
-_Physica D: Nonlinear Phenomena_ <br>
-[accepted]
+_Physica D: Nonlinear Phenomena, 2024_ <br>
+[[paper](https://doi.org/10.1016/j.physd.2024.134411)]
 
 2. Adriana Ruiz-Silva, Bahia Betzavet Cassal-Quiroga, <u>Eber J. Ávila-Martínez</u>, and Hector Gilardi-Velázquez. <br>
 **Emergent Behaviors in Coupled Multi-scroll Oscillators in Network with Subnetworks** <br>
