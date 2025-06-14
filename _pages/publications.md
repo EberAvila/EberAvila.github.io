@@ -6,27 +6,32 @@ author_profile: true
 ---
 
 ## Journal Papers
-1. <u>Eber J. Ávila-Martínez</u>, and Jonatan Pena Ramirez. <br>
+1. Xiaoyu Shi, <u>Eber J. Ávila-Martínez</u>, Yixiao Li, and Lei Shi c <br>
+**Flocking Dynamics for Cooperation Multi-Agent Networks Subject to Intermittent Communication** <br>
+_Expert Systems with Applications, 2025_ <br>
+[[paper](https://doi.org/10.1016/j.eswa.2025.128620)]
+
+2. <u>Eber J. Ávila-Martínez</u>, and Jonatan Pena Ramirez. <br>
 **Synchronous behavior in directed networks of heterogeneous piecewise linear oscillators** <br>
 _Physica D: Nonlinear Phenomena, 2024_ <br>
 [[paper](https://doi.org/10.1016/j.physd.2024.134411)]
 
-2. Adriana Ruiz-Silva, Bahia Betzavet Cassal-Quiroga, <u>Eber J. Ávila-Martínez</u>, and Hector Gilardi-Velázquez. <br>
+3. Adriana Ruiz-Silva, Bahia Betzavet Cassal-Quiroga, <u>Eber J. Ávila-Martínez</u>, and Hector Gilardi-Velázquez. <br>
 **Emergent Behaviors in Coupled Multi-scroll Oscillators in Network with Subnetworks** <br>
 _Chaos Theory and Applications, 2024_ <br>
 [[paper](https://doi.org/10.51537/chaos.1376501)]
 
-3. <u>Eber J. Ávila-Martínez</u>, José L. Echenausía-Monroy, and Adriana Ruiz-Silva. <br>
+4. <u>Eber J. Ávila-Martínez</u>, José L. Echenausía-Monroy, and Adriana Ruiz-Silva. <br>
 **Multi-scroll systems synchronization on strongly connected digraphs** <br>
 _Chaos Theory and Applications, 2022_ <br>
 [[paper](https://doi.org/10.51537/chaos.1185892)]
 
-4. <u>Eber J. Ávila-Martínez</u>. <br>
+5. <u>Eber J. Ávila-Martínez</u>. <br>
 **Obstacle avoidance flocking motion in multi-agent systems with limited sensing radius and heterogeneous input constraints** <br>
 _Advanced Robotics, 2022_ <br>
 [[paper](https://doi.org/10.1080/01691864.2022.2112075)]
 
-5. <u>Eber J. Ávila-Martínez</u>, and Juan G. Barajas-Ramírez. <br>
+6. <u>Eber J. Ávila-Martínez</u>, and Juan G. Barajas-Ramírez. <br>
 **Flocking motion in swarms with limited sensing radius and heterogeneous input constraints** <br>
 _Journal of the Franklin Institute, 2021_ <br>
 [[paper](https://doi.org/10.1016/j.jfranklin.2021.01.022)]
