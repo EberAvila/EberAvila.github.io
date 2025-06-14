@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Journal Papers
-1. Xiaoyu Shi, <u>Eber J. Ávila-Martínez</u>, Yixiao Li, and Lei Shi<br>
+1. Xiaoyu Shi, <u>Eber J. Ávila-Martínez</u>, Yixiao Li, and Lei Shi. <br>
 **Flocking Dynamics for Cooperation Multi-Agent Networks Subject to Intermittent Communication** <br>
 _Expert Systems with Applications, 2025_ <br>
 [[paper](https://doi.org/10.1016/j.eswa.2025.128620)]
